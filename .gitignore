@@ -1,0 +1,7 @@
+output/*.exe
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+output/
